@@ -9,6 +9,8 @@ O projeto utiliza um óculos de realidade virtual Meta Quest 2 e um computador d
 ## Resultados Parciais
 O projeto visa criar uma galeria de arte virtual que permita aos alunos contribuir com suas próprias obras de arte. Estamos atualmente desenvolvendo um sistema de upload intuitivo e realizando testes de compatibilidade com diferentes dispositivos VR.
 
+<img src="https://i.ibb.co/7vVKMzG/frente-galeria.png" alt="frente-galeria" border="0">
+
 ## Próximos Passos
 Os próximos passos incluem a conclusão da galeria, a validação do protótipo e a continuação do cronograma de atividades.
 
